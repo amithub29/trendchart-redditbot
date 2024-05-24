@@ -1,4 +1,6 @@
 .env
 old_data
+.idea
+__pycache__
 get_data.py
 source.txt
